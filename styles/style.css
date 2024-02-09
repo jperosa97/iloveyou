@@ -20,6 +20,12 @@ html, body {
   height: 20rem;
   position: relative; }
 
+.text-container h1 {
+  font-size: 45px;
+  transform: translate(250px, -155px);
+  text-transform: uppercase;
+  color: #763c8c; }
+
 .svg-container {
   z-index: 2;
   position: absolute; }
